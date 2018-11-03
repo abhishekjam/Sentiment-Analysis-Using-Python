@@ -1,4 +1,7 @@
 # Sentiment-Analysis-Using-Python
+Orignal DataSet Link:- https://www.kaggle.com/snap/amazon-fine-food-reviews/data
+(Size of 251 Mb)
+
 Develop a sample API using Flask having sentimental analysis engine as backend and it will analysis the reviews of any particular product from the e-commerce website. I am using various libraries of machine learning. The major one is Pandas for datafaming, Textbob for text processing. I also use Regular expression for cleaning the data.
 1.	E-Commerce, business or company they analyse their product reviews and the output shows that the customer opinion about that product is not good enough to motivate others to purchase this product so using this sentiments the company will decide how to improve the their quality or improve the advertisement quality.
 So, from this every service provider adjust their marketing strategy.
